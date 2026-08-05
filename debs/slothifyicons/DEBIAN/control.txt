@@ -1,0 +1,9 @@
+Package: com.austin.slothifyicons
+Name: SlothifyIcons
+Version: 1.0
+Architecture: iphoneos-arm
+Description: SlothHack Icon Theme
+Maintainer: Austin
+Author: Austin
+Section: Themes
+Depends: com.spark.snowboard, firmware (>= 3.0)

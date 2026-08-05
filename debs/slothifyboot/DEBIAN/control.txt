@@ -1,0 +1,9 @@
+Package: com.austin.slothifyboot
+Name: SlothifyBoot
+Version: 1.0
+Architecture: iphoneos-arm
+Description: SlothHack Boot Logo Pack
+Maintainer: Austin
+Author: Austin
+Section: Themes
+Depends: firmware (>= 3.0)

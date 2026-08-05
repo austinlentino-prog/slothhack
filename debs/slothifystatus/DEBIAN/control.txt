@@ -1,0 +1,9 @@
+Package: com.austin.slothifystatus
+Name: SlothifyStatus
+Version: 1.0
+Architecture: iphoneos-arm
+Description: SlothHack Status Bar Enhancer
+Maintainer: Austin
+Author: Austin
+Section: Tweaks
+Depends: mobilesubstrate

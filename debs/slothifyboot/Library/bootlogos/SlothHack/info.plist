@@ -1,0 +1,5 @@
+{
+    Name = "SlothifyBoot";
+    Author = "Austin";
+    Description = "Custom boot logo";
+}
