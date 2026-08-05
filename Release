@@ -1,0 +1,8 @@
+Origin: SlothHack Repo
+Label: SlothHack
+Suite: stable
+Version: 1.0
+Codename: sloth
+Architectures: iphoneos-arm
+Components: main
+Description: SlothHack Cydia Repository
